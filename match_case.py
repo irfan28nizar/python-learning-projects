@@ -1,4 +1,3 @@
-#match case
 i=int(input("Enter a number between 1 and 5: "))
 match i:
     case 1:
